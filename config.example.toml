@@ -1,0 +1,9 @@
+[env]
+price = "18000000000"
+count = "1"
+sale_type = "2"
+secret_key = "<YOUR_SECRET_KEY_WITHOUT_0x>"
+cap_address = "00283dad781864ad5456b5906f386fc7b1204e52cd012f42caf83d0930e68b6d"
+mint_address = "15f8ad1784fbc9d37a591348268d546e8d2c4454ef9a75daa498beaf9a873891"
+gas_address = "072e7b4c7f54ab6658d6b816bc765fd0a12d6d6002c823274080a0e5d0b5ac39"
+gas_budget = "90000"
